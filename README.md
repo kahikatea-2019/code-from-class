@@ -1,4 +1,5 @@
 # Code from class
 
 ## Season One
-Coming soon...
+
+Episode 1: [node intro](s01e01)
