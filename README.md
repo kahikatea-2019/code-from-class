@@ -1,5 +1,7 @@
 # Code from class
 
+Recorded lectures: http://bit.ly/kahikatea-2019-lectures
+
 ## Season One
 * Episode 1: [Introduction to NodeJS](s01e01)
 * Episode 2-1: [Data types, functions and modules](s01e02-1)
