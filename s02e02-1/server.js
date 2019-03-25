@@ -1,6 +1,8 @@
 const express = require('express')
 const hbs = require('express-handlebars')
 
+const cohortData = require('./data')
+
 // Configuration
 const server = express()
 server.engine('hbs', hbs({ extname: '.hbs' }))
@@ -8,7 +10,7 @@ server.set('view engine', 'hbs')
 
 // Routes
 server.get('/', (req, res) => {
-  res.render('home', require('./data'))
+  res.render('home', cohortData)
 })
 
 server.get('/greet', (req, res) => {
