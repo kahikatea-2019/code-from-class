@@ -1,0 +1,12 @@
+<h1>Welcome home, {{professor}}</h1>
+These are your students:
+<ul>
+  {{#each cohort}}
+    <li>
+      <span style="color: {{color}}">{{name}}</span>
+    </li>
+  {{/each}}
+</ul>
+{{#if isCool}}
+  <p>They're really cool!</p>
+{{/if}}
