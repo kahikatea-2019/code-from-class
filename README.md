@@ -13,3 +13,4 @@ Recorded lectures: http://bit.ly/kahikatea-2019-lectures
 
 ## Season Two
 * Episode 1-1: [Callbacks, sync and async functions](s02e01-1)
+* Episode 1-2: [Testing async functions](s02e01-2)
