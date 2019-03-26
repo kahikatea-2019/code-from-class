@@ -16,4 +16,5 @@ Recorded lectures: http://bit.ly/kahikatea-2019-lectures
 * Episode 1-2: [Testing async functions](s02e01-2)
 * Episode 2-1: [Server-side rendering with Handlebars](s02e02-1)
 * Episode 2-2: [Layouts, partials, and this](s02e02-2)
+* Episode 2-3: [Testing server-side rendered routes](s02e02-3)
 * Episode 3-1: [Server-side routing with Express router](s02e03-1)
