@@ -1,0 +1,19 @@
+{
+  "name": "S02E03-2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+    "scripts": {
+    "start": "node .",
+    "dev": "nodemon .",
+    "test": "jest"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-handlebars": "^3.0.2"
+  },
+  "devDependencies": {
+    "jest": "^24.5.0",
+    "nodemon": "^1.18.10"
+  }
+}
