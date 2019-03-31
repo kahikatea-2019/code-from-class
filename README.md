@@ -19,3 +19,7 @@ Recorded lectures: http://bit.ly/kahikatea-2019-lectures
 * Episode 2-3: [Testing server-side rendered routes](s02e02-3)
 * Episode 3-1: [Server-side routing with Express router](s02e03-1)
 * Episode 3-2: [JSON, POSTing to a form](s02e03-2)
+
+## Season Three
+* Episode 1-1: [Introduction to Knex.js](s03e01-1)
+
