@@ -22,4 +22,5 @@ Recorded lectures: http://bit.ly/kahikatea-2019-lectures
 
 ## Season Three
 * Episode 1-1: [Introduction to Knex.js](s03e01-1)
+* Episode 1-2: [Introduction to Promises](s03e01-2)
 
