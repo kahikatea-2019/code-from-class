@@ -1,0 +1,10 @@
+<h1>Students:</h1>
+<ul>
+  {{#each students}}
+    <li>
+      <a href="/students/{{id}}">{{id}}: {{name}}</a>
+    </li>
+  {{/each}}
+</ul>
+<br />
+<a href="/students/add">Add new student</a>
