@@ -27,3 +27,4 @@ Recorded lectures: http://bit.ly/kahikatea-2019-lectures
 * Episode 2-2: [Many-to-many joins](s03e02-2)
 * Episode 3-1: [Database relationship integrity](s03e03-1)
 * Episode 3-2: [Testing the database module and server-side routes](s03e03-2)
+* Episode 4-1: [Database forms (MEGA demo)](s03e04-1)
