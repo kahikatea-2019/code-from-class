@@ -29,3 +29,6 @@ Recorded lectures: http://bit.ly/kahikatea-2019-lectures
 * Episode 3-2: [Testing the database module and server-side routes](s03e03-2)
 * Episode 4-1: [Database forms (MEGA demo)](s03e04-1)
 * Episode 4-2: [Keyword mania: `this`, `class`, `new`, `constructor`, `extends` and `super`](s03e04-2)
+
+## Season Four
+* Episode 4-1: [Introduction to React](s04e01-1)
