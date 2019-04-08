@@ -32,3 +32,4 @@ Recorded lectures: http://bit.ly/kahikatea-2019-lectures
 
 ## Season Four
 * Episode 4-1: [Introduction to React](s04e01-1)
+* Episode 4-2: [Functional vs. class-based components](s04e01-2)
