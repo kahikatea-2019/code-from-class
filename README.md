@@ -31,5 +31,6 @@ Recorded lectures: http://bit.ly/kahikatea-2019-lectures
 * Episode 4-2: [Keyword mania: `this`, `class`, `new`, `constructor`, `extends` and `super`](s03e04-2)
 
 ## Season Four
-* Episode 4-1: [Introduction to React](s04e01-1)
-* Episode 4-2: [Functional vs. class-based components](s04e01-2)
+* Episode 1-1: [Introduction to React](s04e01-1)
+* Episode 1-2: [Functional vs. class-based components](s04e01-2)
+* Episode 2-1: [Stateful components + event handling](s04e02-1)
