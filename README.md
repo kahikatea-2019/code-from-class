@@ -35,3 +35,4 @@ Recorded lectures: http://bit.ly/kahikatea-2019-lectures
 * Episode 1-2: [Functional vs. class-based components](s04e01-2)
 * Episode 2-1: [Stateful components + event handling](s04e02-1)
 * Episode 2-2: [Passing events through props](s04e02-2)
+* Episode 3: [Client-side routing](s04e03)
