@@ -39,3 +39,4 @@ Recorded lectures: http://bit.ly/kahikatea-2019-lectures
 
 ## Season Five
 * Episode 1: [Intro to APIs](s05e01)
+* Episode 2: [Consuming APIs with React](s05e02)
