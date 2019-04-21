@@ -40,3 +40,7 @@ Recorded lectures: http://bit.ly/kahikatea-2019-lectures
 ## Season Five
 * Episode 1: [Intro to APIs](s05e01)
 * Episode 2: [Consuming APIs with React](s05e02)
+* Episode 3: [External APIs](s05e03)
+
+## Season Six
+* Episode 1-1: [Intro to Redux](s06e01-1)
