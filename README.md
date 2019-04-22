@@ -44,3 +44,4 @@ Recorded lectures: http://bit.ly/kahikatea-2019-lectures
 
 ## Season Six
 * Episode 1-1: [Intro to Redux](s06e01-1)
+* Episode 1-2: [Testing Redux](s06e01-2)
