@@ -46,3 +46,4 @@ Recorded lectures: http://bit.ly/kahikatea-2019-lectures
 * Episode 1-1: [Intro to Redux](s06e01-1)
 * Episode 1-2: [Testing Redux](s06e01-2)
 * Episode 2-1: [React-Redux](s06e02-1)
+* Episode 2-2: [CombineReducers](s06e02-2)
