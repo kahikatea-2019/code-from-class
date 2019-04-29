@@ -48,3 +48,6 @@ Recorded lectures: http://bit.ly/kahikatea-2019-lectures
 * Episode 2-1: [React-Redux](s06e02-1)
 * Episode 2-2: [CombineReducers](s06e02-2)
 * Episode 3: [Async actions with redux-thunk](s06e03)
+
+## Season Seven
+* Episode 2-1: [`call`, `apply` and `bind`](s07e02-1)
